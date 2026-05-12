@@ -63,10 +63,4 @@ These models are trained on customer data to predict **churn probability**.
 - Contract type and payment method significantly affect churn  
 - Identifying high-risk customers helps improve retention strategies  
 
----
 
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/churn-prediction.git
